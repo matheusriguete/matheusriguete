@@ -5,7 +5,7 @@
 
 ### ☕ Java Back-end Dev em construção
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Apaixonado+por+Java+%26+Back-end))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Apaixonado+por+Java+%26+Back-end)
 
 </div>
 
