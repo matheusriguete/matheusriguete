@@ -29,12 +29,14 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=matheusriguete&theme=tokyonight&hide_border=true"/>
   
 </div>
+
+
 
 ---
 
